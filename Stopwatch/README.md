@@ -1,5 +1,7 @@
 # StopWatch Project for AT89C51 Microcontroller
 
+![image](https://github.com/user-attachments/assets/248a01b0-6a61-4a8a-8e63-e9f422b7b8ce)
+
 ## Overview
 This project implements a simple stopwatch using the AT89C51 microcontroller with the following features:
 - Start/Stop functionality
