@@ -68,6 +68,8 @@ The project has been simulated in Proteus with:
 - [ ]  Add lap time functionality
 - [ ]  Include EEPROM for storing best times
 
+___
+
 This project demonstrates fundamental embedded concepts including:
 - Timer programming
 - Interrupt handling
