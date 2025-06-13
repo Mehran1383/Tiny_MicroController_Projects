@@ -63,10 +63,10 @@ The project has been simulated in Proteus with:
 > Button debouncing is minimal - may need improvement for real hardware
 
 ## Future Enhancements
-1. Add milliseconds display
-2. Implement better button debouncing
-3. Add lap time functionality
-4. Include EEPROM for storing best times
+- [ ]  Add milliseconds display
+- [ ]  Implement better button debouncing
+- [ ]  Add lap time functionality
+- [ ]  Include EEPROM for storing best times
 
 This project demonstrates fundamental embedded concepts including:
 - Timer programming
